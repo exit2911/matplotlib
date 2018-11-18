@@ -1,6 +1,7 @@
 #formatting date data in a column
 #handling missing data
 #graphing multiple columns at once
+#passing through missing data - exception handling
 
 
 import csv
