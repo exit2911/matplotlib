@@ -1,4 +1,4 @@
-#reading & graphing multi col from a json file
+#reading & graphing multi col from a json file using Pygal
 
 import json
 
